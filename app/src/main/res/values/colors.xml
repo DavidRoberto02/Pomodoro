@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryLightColor">#5472d3</color>
+    <color name="primaryColor">#0d47a1</color>
+    <color name="primaryDarkColor">#002171</color>
+    <color name="secondaryLightColor">#6d6d6d</color>
+    <color name="secondaryDarkColor">#1b1b1b</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_activity_main">#002855</color>
+    <color name="secondaryColor">#424242</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+    <string name="imagen_pomodoro">Imagen pomodoro</string>
+    <string name="text_title_pomodoro">Deja de procastrinar</string>
+    <string name="text_subtitile_pomodoro">La clave del aprendizaje es el enfoque.</string>
+    <string name="finish_sesion_pomodoro">Finalizar la sesion.</string>
+    <string name="start_session_pomodoro">Iniciar sesion ahora.</string>
+    <string name="common_start_session">Empezar ahora.</string>
+
+    <string name="background_circle_cronometro">Cronometro</string>
+    <string name="divider_minutes_seconds">:</string>
+    <string name="count_timer_session">00</string>
+    <string name="count_timer_session_mostrar">00:00</string>
+    <string name="snackbar_msg_empty_texts">Ingrese los minutos o segundos de su sesion</string>
+
+</resources>
